@@ -1,2 +1,2 @@
-//NAME OFF INTERFACES
+:: NAME OFF INTERFACES
 netsh interface show interface
