@@ -1,6 +1,6 @@
 # FTA-TOOLKIT-BAT
 
-FMS-GOOD.BAT you should definetly run on your computer.
+FMS-GOOD.BAT you should definetly run on your driver station computer.
 
 FMS-GOOD.BAT does the following to the computer
 - Disable WiFi
