@@ -9,4 +9,5 @@ FMS-GOOD.BAT does the following to the computer
 - Set Main Ethernet Adapter to DHCP
 
 NETWORK-ADAPTER.BAT will get the Adapter Names for you to fill out in FMS-GODD.BAT
+
 If the names are different then in FMS-GOOD.BAT, "Local Area Connection" for LAN Wired Connection or "Wi-Fi" for LAN Wireless Connection, then they will need to be replaced with the names from NETWORK-ADAPTER.BAT
